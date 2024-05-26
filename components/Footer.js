@@ -94,7 +94,7 @@ function Footer() {
 
                     <div className=' text-[12px] mt-2 text-white/60 grid grid-cols-1 md:grid-cols-12'>
                         <div className=' col-span-7'>
-                            This is the version of our website addressed to speakers of English in the United States. If you are a resident of another country or region, please select the appropriate version of Tripadvisor for your country or region in the drop-down menu. more
+                            Welcome to Hersse.
                         </div>
                         <div className=' col-span-5'></div>
                     </div>
